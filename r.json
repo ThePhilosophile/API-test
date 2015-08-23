@@ -1,0 +1,357 @@
+[
+    {
+        "_id": "the-counter-palo-alto",
+        "active": true,
+        "categories": [
+            3,
+            18
+        ],
+        "cover": "burgers.jpg",
+        "created_at": "2015-07-08T03: 09: 10Z",
+        "foundation_date": null,
+        "images_count": 0,
+        "name": "TheCounter(Paloalto)",
+        "slogan": "CustomBuiltBurgers",
+        "store": {
+            "_id": "the-counter-palo-alto-13-1221124455-374008333",
+            "as": "2580WElCaminoReal",
+            "dt": false,
+            "fn": "(650)948-2308",
+            "fw": null,
+            "hi": false,
+            "loc": [
+                -122.1124455,
+                37.4008333
+            ],
+            "times": [
+                {
+                    "hours": {
+                        "11": 0,
+                        "12": 0,
+                        "16": 0
+                    },
+                    "open": [
+                        [
+                            11,
+                            0
+                        ],
+                        null
+                    ],
+                    "close": [
+                        [
+                            21,
+                            40
+                        ],
+                        null
+                    ]
+                },
+                {
+                    "hours": {
+                        "11": 0,
+                        "13": 0,
+                        "17": 0
+                    },
+                    "open": [
+                        [
+                            11,
+                            0
+                        ],
+                        null
+                    ],
+                    "close": [
+                        [
+                            21,
+                            40
+                        ],
+                        null
+                    ]
+                }
+            ]
+        },
+        "open": true
+    },
+    {
+        "_id": "the-counter-palo-alto2",
+        "active": true,
+        "categories": [
+            3,
+            18
+        ],
+        "cover": "burgers.jpg",
+        "created_at": "2015-07-08T03: 09: 10Z",
+        "foundation_date": null,
+        "images_count": 0,
+        "name": "TheCounter(PaloAlto)",
+        "slogan": "CustomBuiltBurgers",
+        "store": {
+            "_id": "the-counter-palo-alto-13-1221124455-374008333",
+            "as": "2580WElCaminoReal",
+            "dt": false,
+            "fn": "(650)948-2308",
+            "fw": null,
+            "hi": false,
+            "loc": [
+                -122.1124455,
+                37.4008333
+            ],
+            "times": [
+                {
+                    "hours": {
+                        "11": 0,
+                        "12": 0,
+                        "16": 0
+                    },
+                    "open": [
+                        [
+                            11,
+                            0
+                        ],
+                        null
+                    ],
+                    "close": [
+                        [
+                            21,
+                            40
+                        ],
+                        null
+                    ]
+                },
+                {
+                    "hours": {
+                        "11": 0,
+                        "13": 0,
+                        "17": 0
+                    },
+                    "open": [
+                        [
+                            11,
+                            0
+                        ],
+                        null
+                    ],
+                    "close": [
+                        [
+                            21,
+                            40
+                        ],
+                        null
+                    ]
+                }
+            ]
+        },
+        "open": true
+    },
+    {
+        "_id": "the-counter-mountain-view",
+        "active": true,
+        "categories": [
+            3,
+            18
+        ],
+        "cover": "burgers.jpg",
+        "created_at": "2015-07-08T03: 09: 10Z",
+        "foundation_date": null,
+        "images_count": 0,
+        "name": "TheCounter(MountainView)",
+        "slogan": "CustomBuiltBurgers",
+        "store": {
+            "_id": "the-counter-mountain-view-13-1221124455-374008333",
+            "as": "2580WElCaminoReal",
+            "dt": false,
+            "fn": "(650)948-2308",
+            "fw": null,
+            "hi": false,
+            "loc": [
+                -122.1124455,
+                37.4008333
+            ],
+            "times": [
+                {
+                    "hours": {
+                        "11": 0,
+                        "12": 0,
+                        "16": 0
+                    },
+                    "open": [
+                        [
+                            11,
+                            0
+                        ],
+                        null
+                    ],
+                    "close": [
+                        [
+                            21,
+                            40
+                        ],
+                        null
+                    ]
+                },
+                {
+                    "hours": {
+                        "11": 0,
+                        "13": 0,
+                        "17": 0
+                    },
+                    "open": [
+                        [
+                            11,
+                            0
+                        ],
+                        null
+                    ],
+                    "close": [
+                        [
+                            21,
+                            40
+                        ],
+                        null
+                    ]
+                }
+            ]
+        },
+        "open": true
+    },
+    {
+        "_id": "the-counter-mountain-view2",
+        "active": true,
+        "categories": [
+            3,
+            18
+        ],
+        "cover": "burgers.jpg",
+        "created_at": "2015-07-08T03: 09: 10Z",
+        "foundation_date": null,
+        "images_count": 0,
+        "name": "TheCounter(MountainView)",
+        "slogan": "CustomBuiltBurgers",
+        "store": {
+            "_id": "the-counter-mountain-view-13-1221124455-374008333",
+            "as": "2580WElCaminoReal",
+            "dt": false,
+            "fn": "(650)948-2308",
+            "fw": null,
+            "hi": false,
+            "loc": [
+                -122.1124455,
+                37.4008333
+            ],
+            "times": [
+                {
+                    "hours": {
+                        "11": 0,
+                        "12": 0,
+                        "16": 0
+                    },
+                    "open": [
+                        [
+                            11,
+                            0
+                        ],
+                        null
+                    ],
+                    "close": [
+                        [
+                            21,
+                            40
+                        ],
+                        null
+                    ]
+                },
+                {
+                    "hours": {
+                        "11": 0,
+                        "13": 0,
+                        "17": 0
+                    },
+                    "open": [
+                        [
+                            11,
+                            0
+                        ],
+                        null
+                    ],
+                    "close": [
+                        [
+                            21,
+                            40
+                        ],
+                        null
+                    ]
+                }
+            ]
+        },
+        "open": true
+    },
+    {
+        "_id": "the-counter-los-angeles",
+        "active": true,
+        "categories": [
+            3,
+            18
+        ],
+        "cover": "burgers.jpg",
+        "created_at": "2015-07-08T03: 09: 10Z",
+        "foundation_date": null,
+        "images_count": 0,
+        "name": "TheCounter(LosAngeles)",
+        "slogan": "CustomBuiltBurgers",
+        "store": {
+            "_id": "the-counter-los—angeles13-1221124455-374008333",
+            "as": "2580WElCaminoReal",
+            "dt": false,
+            "fn": "(650)948-2308",
+            "fw": null,
+            "hi": false,
+            "loc": [
+                -122.1124455,
+                37.4008333
+            ],
+            "times": [
+                {
+                    "hours": {
+                        "11": 0,
+                        "12": 0,
+                        "16": 0
+                    },
+                    "open": [
+                        [
+                            11,
+                            0
+                        ],
+                        null
+                    ],
+                    "close": [
+                        [
+                            21,
+                            40
+                        ],
+                        null
+                    ]
+                },
+                {
+                    "hours": {
+                        "11": 0,
+                        "13": 0,
+                        "17": 0
+                    },
+                    "open": [
+                        [
+                            11,
+                            0
+                        ],
+                        null
+                    ],
+                    "close": [
+                        [
+                            21,
+                            40
+                        ],
+                        null
+                    ]
+                }
+            ]
+        },
+        "open": true
+    }
+]

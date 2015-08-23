@@ -1,0 +1,7 @@
+Hello! To test the API:
+
+From the "API-test" folder opened in a console:
+
+1. Start the Mongo database using mongod.exe with the database path "dbrest"
+2. run "bundle exec ruby main.rb"
+3. Either visit http://localhost:4567 in a browser or use curl commands for HTTP requests
